@@ -121,10 +121,12 @@
 
 
 ## AS-IS 조직 (Horizontally-Aligned)
-  ![image](https://user-images.githubusercontent.com/112861813/200214430-2b8c963e-ad5e-45be-86b8-e2a4ed79d17b.png)
+![image](https://user-images.githubusercontent.com/112861813/200223437-2fb67949-78a2-405a-81c4-fab2ca54b793.png)
+
+
 
 ## TO-BE 조직 (Vertically-Aligned)
-  @@@ 이미지 만들어서 넣어야함
+![image](https://user-images.githubusercontent.com/112861813/200223463-a60572e8-6d20-4fa9-aaae-dd19d831afa7.png)
 
 
 ## Event Storming 결과
