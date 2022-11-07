@@ -121,7 +121,7 @@
 
 
 ## AS-IS 조직 (Horizontally-Aligned)
-  @@@ 이미지 만들어서 넣어야함
+  ![image](https://user-images.githubusercontent.com/112861813/200214430-2b8c963e-ad5e-45be-86b8-e2a4ed79d17b.png)
 
 ## TO-BE 조직 (Vertically-Aligned)
   @@@ 이미지 만들어서 넣어야함
