@@ -90,7 +90,7 @@ public class Delivery  {
     
     
     
-    private Date timestamp;
+    private Long timestamp;
 
     @PostPersist
     public void onPostPersist(){
@@ -145,7 +145,7 @@ public class Delivery  {
 
         
     }
-    public static void return(InvoiceCanceled invoiceCanceled){
+    public static void returns(InvoiceCanceled invoiceCanceled){
 
         /** Example 1:  new item 
         Delivery delivery = new Delivery();

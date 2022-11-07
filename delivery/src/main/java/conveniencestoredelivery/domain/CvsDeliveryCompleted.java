@@ -13,7 +13,7 @@ public class CvsDeliveryCompleted extends AbstractEvent {
     private Integer customerId;
     private Long deliveryId;
     private Long invoicedId;
-    private Date timestamp;
+    private Long timestamp;
 
     public CvsDeliveryCompleted(Delivery aggregate){
         super(aggregate);
