@@ -121,11 +121,12 @@
 
 
 ## AS-IS 조직 (Horizontally-Aligned)
-![image](https://user-images.githubusercontent.com/112861813/200220666-e4074db4-afe9-4925-a290-73fef0ba5ebb.png)
+![image](https://user-images.githubusercontent.com/112861813/200223437-2fb67949-78a2-405a-81c4-fab2ca54b793.png)
+
 
 
 ## TO-BE 조직 (Vertically-Aligned)
-![image](https://user-images.githubusercontent.com/112861813/200220719-de4a22f0-13e5-418d-affd-6267c5ddc335.png)
+![image](https://user-images.githubusercontent.com/112861813/200223463-a60572e8-6d20-4fa9-aaae-dd19d831afa7.png)
 
 
 ## Event Storming 결과
