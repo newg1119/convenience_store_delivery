@@ -1,0 +1,21 @@
+해야 할 일
+
+1. 소스코드 구현 – 김민재 프로님, 박인수 프로
+   - 4개 서비스 어플리케이션 코딩  시나리오에 맞추어서 필요한 부분만 퀵하게 코딩
+   - Database (h2 or mysql community version or mariadb) 연결설정
+   - Kafka 연결설정
+   - Dockerfile 작성
+   - CICD 파이프라인 설정
+
+2. 인프라 구성 – 김인탁 프로님, 박인수 프로
+   - K8S 클러스터 설치, Istio 설치 및 설정, Kafka 설치, Zenkins 설치, GipOps 설치, EFS 설정 (옵션)
+   - GitOps 스크립트 작성-Terraform (어플리케이션 배포)
+   - 혹시 여유가 되시면 Rancher 설치 및 설정
+
+3. 발표자료 작성 – 현원기 프로님, 유지연 프로님
+   - 발표 시나리오에 맞추어서 (요구사항 충족하도록) 자료 작성 (필요한 자료 있으면 생성요청)
+   - 각종 yaml 설정 이미지, K8S 결과 화면 등
+   - Git repository readme.md or ppt 등 편리한 수단 사용
+   - 실습결과 발표
+
+4. 최악의 경우에는 (클러스터 구성에 실패) 문서로만 발표를 해야 함
